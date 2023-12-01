@@ -1,0 +1,26 @@
+{
+  "name": "upcvuq--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "23.2.6",
+    "@syncfusion/ej2-calendars": "23.2.6",
+    "@syncfusion/ej2-react-base": "23.2.5",
+    "@syncfusion/ej2-react-calendars": "23.2.6",
+    "@syncfusion/ej2-dropdowns": "23.2.6",
+    "@syncfusion/ej2-react-dropdowns": "23.2.6",
+    "@syncfusion/ej2-inputs": "23.2.4",
+    "@syncfusion/ej2-react-inputs": "23.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
